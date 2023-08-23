@@ -53,6 +53,24 @@
   color: white;
 }
 
+.fs-4 {
+  text-transform: capitalize;
+}
+
+.max-w-750 {
+  max-width: 950px;
+  font-weight: 700;
+  font-size: 48px;
+  text-transform: capitalize;
+}
+
+.max-w-950 {
+  max-width: 950px;
+  font-weight: 600;
+  text-transform: capitalize;
+  line-height: 44px;
+}
+
 
 .max-w-7xl {
   max-width: 1320px;
@@ -120,5 +138,25 @@
   font-size: 16px;
 }
 
+.max-w-955 {
+  max-width: 550px;
+  text-transform: capitalize;
+  font-weight: 600;
+  line-height: 44px;
+}
 
-@media only (max-with) {}
+.max-w-800 {
+  max-width: 800px;
+  line-height: 28px;
+}
+
+.lets {
+  display: flex;
+  text-transform: capitalize;
+  margin-left: -380px;
+  padding: 10px 12px 10px 24px;
+}
+
+.border-radius-64 {
+  border-radius: 64px;
+}
